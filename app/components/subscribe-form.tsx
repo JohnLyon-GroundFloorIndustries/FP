@@ -1,0 +1,1 @@
+import {env} from 'cloudflare:workers';import SubscribeClient from './subscribe-client';export default function SubscribeForm(){return <SubscribeClient review={env.INQUIRY_MODE!=='live'}/>;}

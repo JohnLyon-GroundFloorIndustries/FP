@@ -1,0 +1,165 @@
+{
+  "scope": "Local headless Chromium; no screen-reader certification",
+  "checks": [
+    {
+      "width": 1440,
+      "path": "/",
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "width": 1440,
+      "path": "/work",
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "width": 1440,
+      "path": "/studio",
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "width": 1440,
+      "path": "/approach",
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "width": 1440,
+      "path": "/commissions",
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "width": 1440,
+      "path": "/inquiry",
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "width": 1440,
+      "path": "/work/forbidden-fruit-at-thornwood-castle",
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "width": 390,
+      "path": "/",
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "width": 390,
+      "path": "/work",
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "width": 390,
+      "path": "/studio",
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "width": 390,
+      "path": "/approach",
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "width": 390,
+      "path": "/commissions",
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "width": 390,
+      "path": "/inquiry",
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "width": 390,
+      "path": "/work/forbidden-fruit-at-thornwood-castle",
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "test": "Mobile navigation opens",
+      "pass": true
+    },
+    {
+      "test": "Escape closes navigation",
+      "pass": true
+    },
+    {
+      "width": 320,
+      "path": "/",
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "width": 320,
+      "path": "/work",
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "width": 320,
+      "path": "/studio",
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "width": 320,
+      "path": "/approach",
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "width": 320,
+      "path": "/commissions",
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "width": 320,
+      "path": "/inquiry",
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "width": 320,
+      "path": "/work/forbidden-fruit-at-thornwood-castle",
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "test": "Keyboard focus visible",
+      "pass": true
+    }
+  ],
+  "errors": []
+}
