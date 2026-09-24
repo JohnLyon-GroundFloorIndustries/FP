@@ -1,2 +1,0 @@
-import {PageHero} from './components/shared';
-export default function NotFound(){return <main id="main-content"><PageHero eyebrow="LET’S FIND YOUR WAY" title="This page has moved on." description="Your next beautiful idea might be in our portfolio or services."/><section className="section"><div className="hero-actions"><a className="button" href="/">Return home</a><a className="text-link" href="/portfolio">Explore our work ↗</a></div></section></main>}

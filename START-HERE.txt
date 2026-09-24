@@ -1,0 +1,31 @@
+FLORA PACIFICA — GITHUB PAGES VERSION
+
+This package contains a static design preview, not the server application.
+The docs folder is the publishing folder. It contains index.html, page folders,
+images and assets. Do not upload the ZIP itself or the parent package folder.
+
+1. Extract this ZIP using Windows Extract All.
+2. If you have already cloned FP in GitHub Desktop, open that local folder.
+3. If FP already has a docs folder, move it outside the repository as a backup.
+   It may contain handoff documents; preserve those outside the publishing folder.
+4. Copy this package's docs folder into FP. You should see FP/docs/index.html.
+5. In GitHub Desktop, review changes, commit, and Push origin.
+6. On GitHub open FP > Settings > Pages.
+7. Source: Deploy from a branch. Branch: main. Folder: /docs. Save.
+8. Check Actions for a successful Pages deployment, then use the Visit site link.
+   Expected address: https://JohnLyon-GroundFloorIndustries.github.io/FP/
+
+If starting from the browser Upload files screen and FP has no docs folder,
+drag the extracted docs folder onto it, then commit. Preserve its folder structure.
+
+This version does not collect inquiries, send messages, store analytics, or expose
+staff/client login. Inquiry links to https://florapacifica.co/contact.
+No email address is invented. The original full application is unchanged.
+
+The /FP/ path is built into links. A renamed repository, custom domain or root
+website requires regenerating the links and metadata. No CNAME is included.
+
+Pages is public under ordinary publishing even when a repository is private.
+Noindex is requested for this design preview, not access control. Confirm copy
+and image rights before using this as the public business website. No domain
+change has been made. Hosting has not been activated on GitHub by this package.

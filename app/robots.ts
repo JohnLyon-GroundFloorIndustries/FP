@@ -1,1 +1,0 @@
-import type {MetadataRoute} from 'next';import {env} from 'cloudflare:workers';import {origin} from './content';export default function robots():MetadataRoute.Robots{return {rules:env.INDEXING_ENABLED==='true'?{userAgent:'*',allow:'/',disallow:['/workspace','/api/','/subscription']}:{userAgent:'*',disallow:'/'},sitemap:origin+'/sitemap.xml'}}

@@ -1,1 +1,0 @@
-import type {MetadataRoute} from 'next';import {origin,articles,projects} from './content';export default function sitemap():MetadataRoute.Sitemap{return ['','/work','/studio','/approach','/commissions','/journal','/inquiry','/privacy','/accessibility',...articles.map(a=>'/journal/'+a.slug),...projects.map(p=>'/work/'+p.slug)].map(path=>({url:origin+path}))}
